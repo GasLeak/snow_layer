@@ -1,3 +1,5 @@
-# snow_layer
-This is a resource pack that I'm working on here and there, it isn't anything too great, join our discord or something idk
+UNPACK THE .ZIP
+
+This pack is best paired with Optifine!
+This is just a pack i'm working on to practice texturing and whatnot, if you'd like to join our discord here is an invite;
 https://discord.gg/8KjYsBcfxM
